@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Artwork
 permalink: /artwork/
 ---
 A Introduction for My Art Works
 
 #Colorful Switch
 
-![_config.yml]({{ site.baseurl }}/Coluorful_Switch/.png)
+![_config.yml]({{ site.baseurl }}/images/Coluorful_Switch.png)
